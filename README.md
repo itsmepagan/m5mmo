@@ -1,4 +1,9 @@
 # m5mmo
+
+
+<img width="1873" height="1369" alt="cover" src="https://github.com/user-attachments/assets/30292b8f-ad69-4305-8af5-f3a956e0164d" />
+
+
 Idle Online MMORPG for M5 Cardputer
 
 ⚔️ M5MMO - Multiplayer RPG for M5Cardputer
